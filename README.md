@@ -1,2 +1,3 @@
 # PMR-control-Panel
-Interfacing with Arduino-based microcontrollers to enable custom photic stimulus control.
+PMR control panel is an desktop application to enable programmable photic stimulus control through interfacing with Arduino-based microcontroller.
+
