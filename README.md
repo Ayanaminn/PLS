@@ -12,7 +12,7 @@ Coming soon....
 Installation:
 ------------
 
--Download the latest release from [Releases]
+-Download the latest release from [Releases](https://github.com/Ayanaminn/PMR-control-panel/releases)
 
 -Unzip file
 
