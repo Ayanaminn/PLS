@@ -11,13 +11,27 @@ Coming soon....
 
 Installation:
 ------------
+### Requirements
 
--Download the latest release from [Releases](https://github.com/Ayanaminn/PMR-control-panel/releases)
+* Windows operating system
+* Arduino board. Arduino Mega2560 was validated, however any USB interfacing board that have digital I/O pins with PWM should work.
 
--Unzip file
 
--Double click to run "PMR control panel.exe"
+### Software
 
+- Download the latest release from [Releases](https://github.com/Ayanaminn/PMR-control-panel/releases)
+
+- Unzip file
+
+- Double click to run "PMR control panel.exe"
+
+### Hardware
+
+- Download the [Arduino script] and upload the script to board
+
+
+Getting Started:
+------------
 
 
 License:
