@@ -53,4 +53,12 @@ Getting Started:
 License:
 ------------
 
-MIT License. See [LICENSE](https://github.com/Ayanaminn/PMR-control-panel/blob/master/LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/Ayanaminn/PMR-control-panel/blob/master/LICENSE) for details
+
+
+Contact:
+------------
+Should you have any questions about this application, please report an issue [here]
+
+If you have further interests about the research this program has been applied for, please [visit us](https://neurotoxlab.com)
+
