@@ -58,7 +58,7 @@ MIT License. See [LICENSE](https://github.com/Ayanaminn/PMR-control-panel/blob/m
 
 Contact:
 ------------
-Should you have any questions about this application, please report an issue [here]
+Should you have any questions about this application, please report an issue [here](https://github.com/Ayanaminn/PMR-control-panel/issues), or send an [email]  (mailto:yutao.bai@student.rmit.edu.au)
 
-If you have further interests about the research this program has been applied for, please [visit us](https://neurotoxlab.com)
+If you have further interests about the research this program has been applied for, please [visit our website](https://neurotoxlab.com)
 
