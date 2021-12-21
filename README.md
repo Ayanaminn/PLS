@@ -1,5 +1,9 @@
-# PMR control panel
-Photomotor Response (PMR) control panel enables programmable photic stimulus control through interfacing with Arduino-based microcontroller.
+# PLS (Zebrafish Embryo Photomotor Response and Larval Predator response system)
+PLS (Zebrafish Embryo Photomotor Response and Larval Predator response system) is developed for rapid analysis of large cohorts of specimens in PMR and SPR neurotoxicity bioassays. It includes applications of custom embryo arrays in conjunction with an open-source and inexpensive infrared video imaging system coupled with a dedicated bioinformatic approach that facilitates high-throughput analysis of behavioural phenotypes.
+
+![PLS_overview](https://user-images.githubusercontent.com/49441654/146858458-b18fd8b9-6895-4b48-8c6e-9d7b1c72e19a.png)
+
+The photic stimulus is controlled by Photomotor Control Panel, a custom software application that enables programmable photic stimulus control through interfacing with Arduino-based microcontroller.
 
 ![image](https://user-images.githubusercontent.com/49441654/137485205-9662aee2-a87d-471b-9ff2-5248a4b0aa1b.png)
 
@@ -16,12 +20,12 @@ Installation:
 
 * Windows operating system.
 
-* Arduino board. Arduino Mega2560 was validated, however any USB interfacing board that have digital I/O pins with PWM should work.
+* [Key Componect List](https://github.com/Ayanaminn/PLS/blob/master/Hardware/Assembley%20Instructions%20and%20Component%20List.docx).
 
 
 ### Software
 
-1. Download the latest release from [Releases](https://github.com/Ayanaminn/PMR-control-panel/releases).
+1. Download the latest release from [Releases](https://github.com/Ayanaminn/PLS/releases).
 
 2. Unzip file and open "PMR control panel" folder.
 
@@ -29,7 +33,7 @@ Installation:
 
 ### Hardware
 
-1. Download the latest release from [Releases](https://github.com/Ayanaminn/PMR-control-panel/releases).
+1. Download the latest release from [Releases](https://github.com/Ayanaminn/PLS/releases).
 
 2. Unzip file and open "PMR control panel Arduino script" folder.
 
@@ -53,13 +57,13 @@ Getting Started:
 License:
 ------------
 
-MIT License. See [LICENSE](https://github.com/Ayanaminn/PMR-control-panel/blob/master/LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/Ayanaminn/PLS/blob/master/LICENSE) for details.
 
 
 Contact:
 ------------
 
-Should you have any questions about this application, please report an issue [here](https://github.com/Ayanaminn/PMR-control-panel/issues), or send an [email](mailto:yutao.bai@student.rmit.edu.au).
+Should you have any questions about this application, please report an issue [here](https://github.com/Ayanaminn/PLS/issues), or send an [email](mailto:yutao.bai@student.rmit.edu.au).
 
 If you have further interests about the research this program has been applied for, please [visit our website](https://neurotoxlab.com).
 
