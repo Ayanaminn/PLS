@@ -1,9 +1,11 @@
 # PLS (Zebrafish Embryo Photomotor Response and Larval Predator response system)
-PLS (Zebrafish Embryo Photomotor Response and Larval Predator response system) is developed for rapid analysis of large cohorts of specimens in PMR and SPR neurotoxicity bioassays. It includes applications of custom embryo arrays in conjunction with an open-source and inexpensive infrared video imaging system coupled with a dedicated bioinformatic approach that facilitates high-throughput analysis of behavioural phenotypes.
+PLS (Zebrafish Embryo Photomotor Response and Larval Predator response system) is developed for rapid analysis of large cohorts of specimens in PMR and SPR neurotoxicity bioassays. 
+
+PLS includes applications of custom embryo arrays in conjunction with an open-source and inexpensive infrared video imaging system coupled with a dedicated bioinformatic approach that facilitates high-throughput analysis of behavioural phenotypes.
 
 ![PLS_overview](https://user-images.githubusercontent.com/49441654/146858458-b18fd8b9-6895-4b48-8c6e-9d7b1c72e19a.png)
 
-The photic stimulus is controlled by Photomotor Control Panel, a custom software application that enables programmable photic stimulus control through interfacing with Arduino-based microcontroller.
+The photic stimulus is controlled by PMR Control Panel, a custom software application that enables programmable photic stimulus control through interfacing with Arduino-based microcontroller.
 
 ![image](https://user-images.githubusercontent.com/49441654/137485205-9662aee2-a87d-471b-9ff2-5248a4b0aa1b.png)
 
@@ -33,13 +35,15 @@ Installation:
 
 ### Hardware
 
-1. Download the latest release from [Releases](https://github.com/Ayanaminn/PLS/releases).
+1. Following the [Assembly instructions](https://github.com/Ayanaminn/PLS/blob/master/Hardware/Assembley%20Instructions%20and%20Component%20List.docx).
 
-2. Unzip file and open "PMR control panel Arduino script" folder.
+2. Download the latest release from [Releases](https://github.com/Ayanaminn/PLS/releases).
 
-3. Using [Arduino IDE](https://www.arduino.cc/en/software) to open the "PMR_control_panel_Arduino_script.ino" and upload it to board.
+3. Unzip file and open "PMR control panel Arduino script" folder.
 
-4. Wire LED circuit to Arduino pin 9 (default pin), if user prefer to use other pins, change pin number in the script accordingly and re-upload.
+4. Using [Arduino IDE](https://www.arduino.cc/en/software) to open the "PMR_control_panel_Arduino_script.ino" and upload it to board.
+
+5. Wire LED circuit to Arduino pin 9 (default pin), if user prefer to use other pins, change pin number in the script accordingly and re-upload.
 
 
 Getting Started:
