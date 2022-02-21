@@ -13,7 +13,7 @@ The photic stimulus is controlled by PMR Control Panel, a custom software applic
 
 **Please cite our manuscript:**
 
-Coming soon....
+Henry, J., Bai, Y., Kreuder, F., Mawdsley, D., Kaslin, J., & Wlodkowic, D. (2022). Accelerating Chemobehavioral Phenotypic Screening in Neurotoxicology Using a Living Embryo Array System. Zebrafish, 19(1), 32-35. https://doi.org/10.1089/zeb.2021.0072 
 
 
 Installation:
