@@ -67,7 +67,7 @@ MIT License. See [LICENSE](https://github.com/Ayanaminn/PLS/blob/master/LICENSE)
 Contact:
 ------------
 
-Should you have any questions about this application, please report an issue [here](https://github.com/Ayanaminn/PLS/issues), or send an [email](mailto:yutao.bai@student.rmit.edu.au).
+Should you have any questions about this application, please report an issue [here](https://github.com/Ayanaminn/PLS/issues), or send an [email](mailto:yutao.bai@hotmail.com).
 
 If you have further interests about the research this program has been applied for, please [visit our website](https://neurotoxlab.com).
 
